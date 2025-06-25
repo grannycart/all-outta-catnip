@@ -32,5 +32,26 @@ This is why there is "A warning from the DM" at the begining of the scenario. Fe
 * MIT (Except the original AOBG rules, which are still under whatever copyright they were originally released under and are included here only for convenience.)
 * See: [LICENSE](./LICENSE)
 
+--------------------------------------------------------------------------------
+
+## Map making and editing
+* I used asciiflow to draw the maps: https://asciiflow.com/#/
+    * https://github.com/lewish/asciiflow
+* Copy the text out of ascciflow and paste into your favorite editor. 
+    * (Note you are likely to have used unicode-only characters like `├ ─ ┐` which cab be a problem for some editors.)
+    * You can paste the ASCII back into asciiflow if you want to use it to make further edits.
+    * Note for vim users (like me): vim can handle unicode, but if you try to :hardcopy the file, vim sends it to the printer dropping the unicode, so those characters all come out as upsidedown question marks. 
+* Best method is to print using pandoc to create a pdf.
+
+### Printing the map:
+* Be sure to install:
+    * pandoc
+    * xelatex (texlive-core package)
+    * Install JetBrains font: `sudo pacman -S ttf-jetbrains-mono` on Arch Linux
+* Use pandoc to convert text to pdf:
+    * `pandoc map.txt -o map.pdf --pdf-engine=xelatex -V monofont="JetBrains Mono" -V fontsize=12pt -V geometry:margin=0.3in`
+    * The maps are put in code blocks (three backticks) because sometimes pandoc doesn't treat the text as monospace (throws a `Missing character` error) and then doesn't use the JetBrains font.
+    * (You'll have to use this command if you want to make a pdf version of these instructions too. Or just delete the one place with unicode characters.)
+
 
 

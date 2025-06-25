@@ -1,5 +1,5 @@
 ./notes-on-df-catplosion-AOBG-scenario.md
-Last modified: 2025-06-24 21:09
+Last modified: 2025-06-24 21:15
 
 
 # DF catplosion / AOBG mashup scenario
@@ -243,26 +243,6 @@ Take a moment now to consider carefully whether you want to venture into this sc
     * And only constitutes a "win" until the next morning when the dwarves all go outside, find their favorite kitties, and bring them back to the fort. Oh well, they are grateful for what you did while it lasts.
     * (I swear, I did not plan this! I only realized later after writing up the scenario that it was a possibility.)
 * spay and neutering: Pretty sure it is impossible to win through a spay and neutering program. This is really just to give the vegan of the group a way to participate (spay and neutering DOES decrease the number of cats meaningfully!) until the other players run out of bubblegum and start squishing/toasting cats.
-
-
---------------------------------------------------------------------------------
-
-## Map making notes
-* Using asciiflow: https://asciiflow.com/#/
-    * https://github.com/lewish/asciiflow
-* Copy the text out of ascciflow. But you are likely to have used unicode-only characters like `├ ─ ┐` 
-    * vim can handle these, but if you try to :hardcopy the file, vim sends it to the printer dropping the unicode, so those characters all come out as upsidedown question marks. 
-* print using pandoc to create a pdf
-
-### Printing the map:
-* Be sure to install:
-    * pandoc
-    * xelatex (texlive-core package)
-    * Install JetBrains font: `sudo pacman -S ttf-jetbrains-mono`
-* Use pandoc to convert text to pdf:
-    * `pandoc map.txt -o map.pdf --pdf-engine=xelatex -V monofont="JetBrains Mono" -V fontsize=12pt -V geometry:margin=0.3in`
-    * The maps are put in code blocks (three backticks) because sometimes pandoc doesn't treat the text as monospace (throws a `Missing character` error) and then doesn't use the JetBrains font.
-    * (You'll have to use this command if you want to make a pdf version of these instructions too. Or just delete the one place with unicode characters.)
 
 
 
