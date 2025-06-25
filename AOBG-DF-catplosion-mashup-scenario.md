@@ -1,8 +1,8 @@
 ./notes-on-df-catplosion-AOBG-scenario.md
-Last modified: 2025-06-24 20:42
+Last modified: 2025-06-24 21:09
 
 
-# df catplosion AOBG mashup scenario
+# DF catplosion / AOBG mashup scenario
 
 
 ## Intro
