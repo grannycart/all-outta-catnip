@@ -20,6 +20,8 @@ The main goal of the scenario is to prevent a cat population bomb. While it's _p
 
 Having said that, the cat overpopulation is a very real problem in the real world. And all those cute little fuzzy friends of ours are doing real damage to the world in dramatic ways. Maybe it's not the worst thing to force people to choose between cute fuzziness and the good of the fortress.
 
+This is why there is "A warning from the DM" at the begining of the scenario. Feel free to modify/adapt/drop based on your players. Just don't let your players go into the game believing it's nothing but lighthearted fun!
+
 ## The Scenario
 * See: [AOBG-DF-catplosion-mashup-scenario.md](./AOBG-DF-catplosion-mashup-scenario.md)
 * The `maps/` folder contains ASCII maps and pdfs of the levels
