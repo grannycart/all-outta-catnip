@@ -18,9 +18,12 @@ You do not have to have played Dwarf Fortress to play this scenario (but it will
 ## Another warning before you jump in
 The main goal of the scenario is to prevent a cat population bomb. While it's _possible_ to do that in the scenario without _harming_ cats, it's much more likely to get brutal, particularly as the gum runs out. This is actually the point. The scenario (if all goes well) should _force_ the players to start kicking-ass --- _cat_ ass. While this might sound funny on the face of it, it could also get all too real. Some players might have real problems with it. Obviously it's your job as the DM to make sure the players don't get uncomfortable. A good measure that you are doing a good job is if, as the players get forced into more reprehensible actions, you are getting groans, not tears. It's supposed to be funny.
 
-Having said that, the cat overpopulation is a very real problem in the real world. And all those cute little fuzzy friends of ours are doing real damage to the world in dramatic ways. Maybe it's not the worst thing to force people to choose between cute fuzziness and the good of the fortress.
+Having said that, cat overpopulation is a very real problem in the real world. And all those cute little fuzzy friends of ours are doing [real damage](https://dariuszzdziebk.wpenginepowered.com/wp-content/uploads/2015/09/Loss_et_al._2013-Impacts_Outdoor_Cats.pdf) to the world in dramatic ways. Maybe it's not the worst thing to force people to choose between cute fuzziness and the good of the fortress in the context of a game before they have to in real life.
 
 This is why there is "A warning from the DM" at the begining of the scenario. Feel free to modify/adapt/drop based on your players. Just don't let your players go into the game believing it's nothing but lighthearted fun! (Of course if your players are all a bunch of assholes who think golfing cats with a giant hammer is hilarious, then you have nothing to worry about.)
+
+## Why this mashup works
+It may seem a little random at first, but the mechanic of AOBG that _forces_ the player to kick-ass also forces the player to actions that (maybe) they don't want to take (bumping off cats) in this scenario. It ends up being a unique fit that you probably won't see in any other AOBG scenario.
 
 ## The Scenario
 * See: [AOBG-DF-catplosion-mashup-scenario.md](./AOBG-DF-catplosion-mashup-scenario.md)
